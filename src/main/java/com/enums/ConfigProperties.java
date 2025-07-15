@@ -1,0 +1,11 @@
+package com.enums;
+
+public enum ConfigProperties {
+    URL,
+    OVERRIDE_REPORTS,
+    PASSED_STEPS_SCREENSHOTS,
+    FAILED_STEPS_SCREENSHOTS,
+    SKIPPED_STEPS_SCREENSHOTS,
+    RETRY_FAILED_TESTS,
+    BROWSER
+}
